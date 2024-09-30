@@ -1,0 +1,60 @@
+{% extends 'base.html'%}
+{% block title %}
+<title>Updated</title>
+{% endblock title%}
+{% block content %}
+<h2>Update Employee</h2>
+<div class="container">
+    <div class="col-md-6">
+        <form action="" method="POST">
+            {% csrf_token %}
+            <!-- <input type="text" class="form-control" name="emp_id" value="{{ serializer.data.emp_id }}" placeholder="Emp Id" required>
+            <input type="text" class="form-control" name="name" value="{{ serializer.data.name }}" placeholder="Name" required>
+            <input type="email" class="form-control" name="email" value="{{ serializer.data.email }}" placeholder="Email" required>
+            <input type="text" class="form-control" name="department" value="{{ serializer.data.department }}" placeholder="Department" required>
+            <input type="text" class="form-control" name="designation" value="{{ serializer.data.designation }}" placeholder="Designation" required>
+            <input type="text" class="form-control" name="Location" value="{{ serializer.data.Location }}" placeholder="Location" required> -->
+            {% csrf_token %}
+                    {% for message in messages %}
+                    <div class="alert alert-{{message.tags}} alert-dismissible fade show" role="alert">
+                    <strong></strong> {{message}}
+                    <button type="button" class="btn-close" disabled aria-label="Close"></button>
+                    </div>
+                    {% endfor %}
+                    <div class="form-group">
+                        <label for="emp_id">Emp_Id:</label>
+                        <input type="text" class="form-control mb-4" id="emp_id" value="{{ serializer.data.emp_id }}" placeholder="Emp_Id" name="emp_id" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input type="text" class="form-control mb-4" id="name" placeholder="Name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" class="form-control mb-4" id="email" placeholder="Email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="department">Department:</label>
+                        <select class="form-control mb-4" id="department" name="department" required>
+                            {% for department in departments %}
+                                <option value="{{ department.id }}">{{ department.title }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="designation">Designation:</label>
+                        <select class="form-control mb-4" id="designation" name="designation" required>
+                            {% for designation in designations %}
+                                <option value="{{ designation.id }}">{{ designation.title }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="Location">Location:</label>
+                        <input type="text" class="form-control mb-4" id="Location" placeholder="Location" name="Location" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Update</button>
+        </form>
+    </div>
+</div>
+{% endblock content %}

@@ -1,0 +1,582 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Designation",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Designation",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Designation",
+        "importPath": "crud_app.models",
+        "description": "crud_app.models",
+        "isExtraImport": true,
+        "detail": "crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "crud_app",
+        "description": "crud_app",
+        "isExtraImport": true,
+        "detail": "crud_app",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeSerializer",
+        "importPath": "crud_app.serializers",
+        "description": "crud_app.serializers",
+        "isExtraImport": true,
+        "detail": "crud_app.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "constants",
+        "importPath": "django.contrib.messages",
+        "description": "django.contrib.messages",
+        "isExtraImport": true,
+        "detail": "django.contrib.messages",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Crud_operations.crud_app.migrations.0001_initial",
+        "description": "Crud_operations.crud_app.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Department',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=256)),",
+        "detail": "Crud_operations.crud_app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CrudAppConfig",
+        "kind": 6,
+        "importPath": "Crud_operations.crud_app.apps",
+        "description": "Crud_operations.crud_app.apps",
+        "peekOfCode": "class CrudAppConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'crud_app'",
+        "detail": "Crud_operations.crud_app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "kind": 6,
+        "importPath": "Crud_operations.crud_app.models",
+        "description": "Crud_operations.crud_app.models",
+        "peekOfCode": "class Department(models.Model):\n    title = models.CharField(max_length=256)\n    def __str__(self):\n        return self.title\nclass Designation(models.Model):\n    title = models.CharField(max_length=256)\n    def __str__(self):\n        return self.title\nclass Employee(models.Model):\n    emp_id = models.IntegerField()",
+        "detail": "Crud_operations.crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Designation",
+        "kind": 6,
+        "importPath": "Crud_operations.crud_app.models",
+        "description": "Crud_operations.crud_app.models",
+        "peekOfCode": "class Designation(models.Model):\n    title = models.CharField(max_length=256)\n    def __str__(self):\n        return self.title\nclass Employee(models.Model):\n    emp_id = models.IntegerField()\n    name = models.CharField(max_length=256)\n    email = models.EmailField()\n    department =models.ForeignKey(Department,on_delete=models.CASCADE)\n    designation = models.ForeignKey(Designation,on_delete=models.CASCADE)",
+        "detail": "Crud_operations.crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "kind": 6,
+        "importPath": "Crud_operations.crud_app.models",
+        "description": "Crud_operations.crud_app.models",
+        "peekOfCode": "class Employee(models.Model):\n    emp_id = models.IntegerField()\n    name = models.CharField(max_length=256)\n    email = models.EmailField()\n    department =models.ForeignKey(Department,on_delete=models.CASCADE)\n    designation = models.ForeignKey(Designation,on_delete=models.CASCADE)\n    Location = models.CharField(max_length=256)\n    def __str__(self):\n        return self.name",
+        "detail": "Crud_operations.crud_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeSerializer",
+        "kind": 6,
+        "importPath": "Crud_operations.crud_app.serializers",
+        "description": "Crud_operations.crud_app.serializers",
+        "peekOfCode": "class EmployeeSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Employee\n        fields = '__all__'\n    def to_representation(self, instance):\n        representation = super().to_representation(instance)\n        representation['department'] = instance.department.title\n        representation['designation'] = instance.designation.title\n        return representation",
+        "detail": "Crud_operations.crud_app.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Crud_operations.crud_app.urls",
+        "description": "Crud_operations.crud_app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('display/',views.display_data,name='display'),\n    path('add_data/',views.create_data,name='add_data'),\n    path('update_data/<int:emp_id>/',views.update_data,name='update_data'),\n]",
+        "detail": "Crud_operations.crud_app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "display_data",
+        "kind": 2,
+        "importPath": "Crud_operations.crud_app.views",
+        "description": "Crud_operations.crud_app.views",
+        "peekOfCode": "def display_data(request):\n    objs = Employee.objects.all()\n    serializer = EmployeeSerializer(objs,many=True)\n    context = {'data':serializer.data}\n    return render(request,\"dis_data.html\",context)\n@api_view(['GET','POST'])\ndef create_data(request):\n    departments = Department.objects.all()\n    designations = Designation.objects.all()\n    if request.method == 'POST':",
+        "detail": "Crud_operations.crud_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_data",
+        "kind": 2,
+        "importPath": "Crud_operations.crud_app.views",
+        "description": "Crud_operations.crud_app.views",
+        "peekOfCode": "def create_data(request):\n    departments = Department.objects.all()\n    designations = Designation.objects.all()\n    if request.method == 'POST':\n        serializer = EmployeeSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            messages.info(request,'Successful')\n            return redirect('/display')\n        else:",
+        "detail": "Crud_operations.crud_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_data",
+        "kind": 2,
+        "importPath": "Crud_operations.crud_app.views",
+        "description": "Crud_operations.crud_app.views",
+        "peekOfCode": "def update_data(request, emp_id):\n    try:\n        employee = Employee.objects.get(pk=emp_id)\n    except Employee.DoesNotExist:\n        return render(request,\"updated_data.html\")\n    if request.method == 'POST':\n        serializer = EmployeeSerializer(employee, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            messages.info(request,'Updated Successful')",
+        "detail": "Crud_operations.crud_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.asgi",
+        "description": "Crud_operations.Crud_operations.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Crud_operations.Crud_operations.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'zmlx3bign!&z87v1ytklgh_e@@2&*mjbl%%r+$w-x0*&x#+$0='\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "SECRET_KEY = 'zmlx3bign!&z87v1ytklgh_e@@2&*mjbl%%r+$w-x0*&x#+$0='\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'crud_app',\n]",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'Crud_operations.urls'",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "ROOT_URLCONF = 'Crud_operations.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'Crud_operations.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMESSAGE_TAGS={",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMESSAGE_TAGS={\n    messages.ERROR:'danger'",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMESSAGE_TAGS={\n    messages.ERROR:'danger'\n}",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMESSAGE_TAGS={\n    messages.ERROR:'danger'\n}",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMESSAGE_TAGS={\n    messages.ERROR:'danger'\n}",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMESSAGE_TAGS={\n    messages.ERROR:'danger'\n}",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.settings",
+        "description": "Crud_operations.Crud_operations.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nMESSAGE_TAGS={\n    messages.ERROR:'danger'\n}",
+        "detail": "Crud_operations.Crud_operations.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.urls",
+        "description": "Crud_operations.Crud_operations.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('crud_app.urls')),\n]",
+        "detail": "Crud_operations.Crud_operations.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Crud_operations.Crud_operations.wsgi",
+        "description": "Crud_operations.Crud_operations.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Crud_operations.Crud_operations.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Crud_operations.manage",
+        "description": "Crud_operations.manage",
+        "peekOfCode": "def main():\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Crud_operations.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n        ) from exc",
+        "detail": "Crud_operations.manage",
+        "documentation": {}
+    }
+]
